@@ -1,0 +1,46 @@
+﻿body {
+}
+.jumbotron {
+    background-color: #33ACFF;
+    text-align: center;
+}
+
+.jumbrotronh2 {
+    word-wrap: break-word;
+}
+
+
+.center1 {
+    color: #33ACFF;
+    text-align: center;
+}
+
+.center2 {
+    color: #33ACFF;
+    text-align: left;
+}
+
+.flowers {
+    text-align-last: center;
+    width: 20rem;
+    height: 15rem;
+    margin-left: 5rem;
+}
+
+.myclip {
+    width: 20em;
+    height: 13.5em;
+}
+.inside {
+    padding-left: 4.5rem;
+    padding-right: 4rem;
+}
+
+.outside {
+    padding-right: 3.73rem;
+    padding-left: 4.5rem;
+}
+
+.last {
+    padding-left: 3.75rem;
+}
